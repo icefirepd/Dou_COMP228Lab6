@@ -5,7 +5,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
-public class Driver {
+public class AccountTest {
     public static void main(String[] args) {
         //first initial the account balance
         Account account = new Account(10000.0);
